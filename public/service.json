@@ -1,0 +1,50 @@
+[
+  {
+    "service": "General Consultation",
+    "icon": "https://cdn-icons-png.freepik.com/256/4596/4596365.png?semt=ais_hybrid",
+    "description": "Get expert advice and check-ups for general health concerns.",
+    "link": "learn-more/general-consultation"
+  },
+  {
+    "service": "Dental Care",
+    "icon": "https://cdn-icons-png.freepik.com/256/15192/15192822.png?semt=ais_hybrid",
+    "description": "Comprehensive dental services, including check-ups and treatments.",
+    "link": "learn-more/dental-care"
+  },
+  {
+    "service": "Pediatric Services",
+    "icon": "https://cdn-icons-png.freepik.com/256/17774/17774424.png?semt=ais_hybrid",
+    "description": "Specialized care for children to ensure their health and development.",
+    "link": "learn-more/pediatric-services"
+  },
+  {
+    "service": "Emergency Care",
+    "icon": "https://cdn-icons-png.freepik.com/256/17306/17306625.png?semt=ais_hybrid",
+    "description": "Immediate medical assistance for urgent health issues.",
+    "link": "learn-more/emergency-care"
+  },
+  {
+    "service": "Specialty Care",
+    "icon": "https://cdn-icons-png.freepik.com/256/14599/14599175.png?semt=ais_hybrid",
+    "description": "Advanced care in areas such as cardiology and orthopedics.",
+    "link": "learn-more/specialty-care"
+  },
+  {
+    "service": "Nutrition Counseling",
+    "icon": "https://cdn-icons-png.freepik.com/256/15978/15978389.png?semt=ais_hybrid",
+    "description": "Personalized dietary advice to improve overall health and well-being.",
+    "link": "learn-more/nutrition-counseling"
+  },
+  {
+    "service": "Physical Therapy",
+    "icon": "https://cdn-icons-png.freepik.com/256/12110/12110599.png?semt=ais_hybrid",
+    "description": "Rehabilitation services to help restore movement and function.",
+    "link": "learn-more/physical-therapy"
+  },
+  {
+    "service": "Mental Health Services",
+    "icon": "https://cdn-icons-png.freepik.com/256/13073/13073792.png?semt=ais_hybrid",
+    "description": "Support and treatment for mental health challenges and wellness.",
+    "link": "learn-more/mental-health-services"
+  }
+]
